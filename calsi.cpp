@@ -1,3 +1,5 @@
 #include<math.h>
 #include<sys>
-voide()
+public static void main()
+{}
+  
